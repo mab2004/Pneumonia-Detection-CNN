@@ -4,7 +4,7 @@
 This project demonstrates a deep learning approach to detect pneumonia from chest X-ray images. The solution uses a simple Convolutional Neural Network (CNN) trained on a publicly available dataset to perform a binary classification, distinguishing between healthy and infected lungs.
 
 ## Dataset
-The model was trained and evaluated on a subset of the **Kaggle Chest X-Ray Images Dataset**. The dataset is structured into three main directories: `train`, `test`, and `val`, each containing subdirectories for the `NORMAL` and `PNEUMONIA` classes.
+The model was trained and evaluated on a subset of the **Kaggle Chest X-Ray Images Dataset**, which can be found here: [Chest X-ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia). The dataset is structured into three main directories: `train`, `test`, and `val`, each containing subdirectories for the `NORMAL` and `PNEUMONIA` classes.
 
 
 ## Methodology
